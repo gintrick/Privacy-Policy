@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div style={containerStyle}>
-      <div style={headerStyle}>プライバシーポリシー</div>
+      <div style={headerStyle}>株式会社GinTrick プライバシーポリシー</div>
       <p>
         当社のアプリケーションでは、ユーザーのプライバシーとデータの安全を最優先事項としています。本プライバシーポリシーは、ユーザーが当社のアプリケーションを通じてアップロードする画像の取り扱いについて説明しています。
       </p>
