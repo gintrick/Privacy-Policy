@@ -1,8 +1,8 @@
 {
-  "name": "privacy-policy",
+  "name": "pet-privacy-policy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gintrick.github.io/privacy-policy/",
+  "homepage": "https://gintrick.github.io/pet-privacy-policy/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
